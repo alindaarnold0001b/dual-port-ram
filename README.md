@@ -53,7 +53,7 @@ dual-port-ram/
    ```
 2. Compile:
    ```bash
-   iverilog -g2012 -o dp_ram_tb src/dp_ram.v tb/tb_ram_dp.v
+   iverilog  -o dp_ram_tb src/dp_ram.v tb/tb_ram_dp.v
    ```
 3. Run simulation:
    ```bash
