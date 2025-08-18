@@ -67,21 +67,27 @@ dual-port-ram/
 ---
 
 ## 📊 Simulation Results
-- **Clear Operation**  
-  ![Clear](docs/tb_dp_ram_clear.png)  
+- **Clear Operation**
+- 
+  ![Clear](docs/tb_dp_ram_clear.png)
+  
 
-- **Read/Write**  
+- **Read/Write**
+- 
   ![RW](docs/tb_dp_ram_read_write.png)  
 
-- **Parallel Read/Write**  
+- **Parallel Read/Write**
+- 
   ![PRW](docs/tb_dp_ram_parralell_read_write.png)  
 
-- **Output Verification**  
+- **Output Verification**
+- 
   ![Out](docs/tb_dp_ram_output.png)  
 
 ---
 
 ## 📖 Documentation
+
 - 📖 [User Guide](docs/README_user_guide.md) – Step-by-step instructions on how to use, simulate, and extend the dual-port RAM.
 - 📂 [Design Sources](src) – RTL files.
 - 🧪 [Testbenches](tb) – Verification environment and test scenarios.
